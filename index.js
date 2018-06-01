@@ -26,4 +26,5 @@ function iLoveTheBeatles(number){
     num++;
   }
   while(num<16)
+  return loveArray;
 }
